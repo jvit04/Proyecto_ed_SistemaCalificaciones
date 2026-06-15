@@ -1,0 +1,50 @@
+0923456781,Taller_1,10.0,Excelente trabajo
+0923456781,Leccion_1,8.5,Buen razonamiento
+0923456781,Taller_1,10.0,ERROR: Nota duplicada manualmente (Prueba Duplicados)
+
+0918273645,Taller_1,9.0,Muy bien
+0918273645,Leccion_1,10.0,Perfecto
+0918273645,Proyecto_P1,20.0,Cumple todo
+0918273645,Taller_2,10.0,Correcto
+0918273645,Examen_Medio,25.0,Falto un punto
+
+0911223344,Taller_1,5.0,Faltaron ejercicios
+0911223344,Leccion_1,6.0,Estudiar mas
+
+0987654321,Proyecto_P1,18.0,Buena interfaz
+0987654321,Proyecto_P1,18.0,ERROR: Subido dos veces (Prueba Duplicados)
+0987654321,Proyecto_P2,-1,Sin calificar
+0987654321,Taller_1,8.0,Entrega tardia
+0987654321,Taller_2,9.0,Mejora notable
+
+0955667788,Taller_1,10.0,Excelente
+0955667788,Taller_2,9.0,Buen trabajo
+0955667788,Taller_3,8.0,Bien
+0955667788,Leccion_1,10.0,Perfecto
+0955667788,Proyecto_P1,15.0,Aceptable
+0955667788,Proyecto_Final,40.0,Muy completo
+
+0944332211,Taller_1,7.0,Regular
+0944332211,Leccion_1,8.0,Bien
+0944332211,Taller_2,6.0,Mejorable
+0944332211,Proyecto_P1,-1,Pendiente de calificar
+
+0933221100,Taller_1,10.0,Sobresaliente
+0933221100,Taller_2,10.0,Sobresaliente
+0933221100,Taller_3,10.0,Sobresaliente
+0933221100,Leccion_1,10.0,Impecable
+0933221100,Proyecto_Final,50.0,El mejor proyecto de la clase
+
+0999887766,Taller_1,-1,No entrego a tiempo
+0999887766,Leccion_1,-1,Ausente en la prueba
+0999887766,Proyecto_P1,10.0,Incompleto
+
+0912345678,Taller_1,9.5,Casi perfecto
+0912345678,Taller_2,8.5,Bien
+0912345678,Proyecto_P1,18.0,Excelente presentacion
+0912345678,Examen_Medio,20.0,Aprobado
+
+0909090909,Taller_3,10.0,Muy bien
+0909090909,Leccion_1,5.0,Bajo rendimiento
+0909090909,Reto,10.0,Logro desbloqueado
+0909090909,Proyecto_Final,45.0,Gran esfuerzo

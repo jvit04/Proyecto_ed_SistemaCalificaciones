@@ -1,0 +1,11 @@
+Taller_1,Introduccion a Nodos,2026-01-15,10,Taller
+Leccion_1,Listas Simples,2026-02-01,10,Leccion
+Proyecto_P1,Sistema de Matriculacion,2026-02-20,20,Proyecto
+Taller_2,Listas Dobles,2026-03-05,10,Taller
+Examen_Medio,Todo el parcial 1,2026-03-15,30,Examen
+Investigacion,Arboles Binarios,2026-04-10,10,Investigacion
+Taller_3,Grafos Basicos,2026-04-25,10,Taller
+Proyecto_Final,Sistema Completo,2026-05-20,50,Proyecto
+Recuperacion,Examen de mejora,2026-06-01,30,Examen
+Reto,Programacion Dinamica,2026-06-15,10,Extra
+Proyecto_P2,Segunda parte del proyecto,2026-05-10,20,Proyecto

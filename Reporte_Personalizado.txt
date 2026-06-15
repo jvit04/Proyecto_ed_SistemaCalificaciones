@@ -1,0 +1,81 @@
+=== REPORTE PERSONALIZADO DE CALIFICACIONES ===
+
+Estudiante: Juan Perez
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 10.0
+  * Promedio_Lecciones = 4.25
+  * Nota_Proyecto = 0.0
+  * Nota_Final = 14.25
+  * Promedio Final = 1.68
+
+Estudiante: Maria Lopez
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 19.0
+  * Promedio_Lecciones = 5.0
+  * Nota_Proyecto = 0.0
+  * Nota_Final = 24.0
+  * Promedio Final = 6.73
+
+Estudiante: Carlos Andrade
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 5.0
+  * Promedio_Lecciones = 3.0
+  * Nota_Proyecto = 0.0
+  * Nota_Final = 8.0
+  * Promedio Final = 1.0
+
+Estudiante: Ana Gomez
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 17.0
+  * Promedio_Lecciones = 0.0
+  * Nota_Proyecto = 0.0
+  * Nota_Final = 17.0
+  * Promedio Final = 3.18
+
+Estudiante: Luisa Fernandez
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 27.0
+  * Promedio_Lecciones = 5.0
+  * Nota_Proyecto = 40.0
+  * Nota_Final = 72.0
+  * Promedio Final = 8.36
+
+Estudiante: Pedro Ramirez
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 13.0
+  * Promedio_Lecciones = 4.0
+  * Nota_Proyecto = 0.0
+  * Nota_Final = 17.0
+  * Promedio Final = 1.91
+
+Estudiante: Sofia Vargas
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 30.0
+  * Promedio_Lecciones = 5.0
+  * Nota_Proyecto = 50.0
+  * Nota_Final = 85.0
+  * Promedio Final = 8.18
+
+Estudiante: Miguel Torres
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 0.0
+  * Promedio_Lecciones = 0.0
+  * Nota_Proyecto = 0.0
+  * Nota_Final = 0.0
+  * Promedio Final = 0.91
+
+Estudiante: Elena Castillo
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 18.0
+  * Promedio_Lecciones = 0.0
+  * Nota_Proyecto = 0.0
+  * Nota_Final = 18.0
+  * Promedio Final = 5.09
+
+Estudiante: David Morales
+  -- Cálculos Agregados Matemáticos --
+  * Suma_Talleres = 10.0
+  * Promedio_Lecciones = 2.5
+  * Nota_Proyecto = 45.0
+  * Nota_Final = 57.5
+  * Promedio Final = 6.36

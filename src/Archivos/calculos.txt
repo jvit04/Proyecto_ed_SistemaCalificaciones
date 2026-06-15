@@ -1,0 +1,4 @@
+Suma_Talleres,Taller_1 Taller_2 + Taller_3 +
+Promedio_Lecciones,Leccion_1 Leccion_2 + 2 /
+Nota_Proyecto,Avance_1 Proyecto_Final +
+Nota_Final,Suma_Talleres Promedio_Lecciones + Nota_Proyecto +

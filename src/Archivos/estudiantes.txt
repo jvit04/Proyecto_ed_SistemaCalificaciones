@@ -1,0 +1,10 @@
+Juan,Perez,0923456781
+Maria,Lopez,0918273645
+Carlos,Andrade,0911223344
+Ana,Gomez,0987654321
+Luisa,Fernandez,0955667788
+Pedro,Ramirez,0944332211
+Sofia,Vargas,0933221100
+Miguel,Torres,0999887766
+Elena,Castillo,0912345678
+David,Morales,0909090909
